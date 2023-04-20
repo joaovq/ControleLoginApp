@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ControleLoginApp"
 include ':app'
+include ':domain'
+include ':data'
+include ':presentation'
+include ':di'
